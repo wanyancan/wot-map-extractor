@@ -1,5 +1,5 @@
-WOT_PATH_DEFAULT = 'C:\\Games\\World_of_Tanks'
-DEST_DIR = 'C:\\Chose\\Your\\Destination\\Folder\\'
+WOT_PATH_DEFAULT = 'E:\\Games\\World_of_Tanks_CN'
+DEST_DIR = 'E:\\Games\\World_of_Tanks_CN\\res_mods\\mods\\minimapData'
 
 STANDARD_BATTLE_CODE = 'ctf'
 ENCOUNTER_BATTLE_CODE = 'domination'
